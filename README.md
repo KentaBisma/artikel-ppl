@@ -1,6 +1,6 @@
 # OS211
-A repository for Operation System, year 2020/2021, even semester.
+A repository for articles for the Software Engineering Project course, year 2021/2022.
 Haven't put anything much here.
 
 Related Links:
-[This repo](https://github.com/KentaBisma/os211)
+[This repo](https://github.com/KentaBisma/artikel-ppl)
