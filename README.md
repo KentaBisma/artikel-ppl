@@ -1,4 +1,4 @@
-# OS211
+# Artikel PPL
 A repository for articles for the Software Engineering Project course, year 2021/2022.
 Haven't put anything much here.
 
